@@ -1,6 +1,7 @@
 # Simple example of birthday app.
 
 </br>
+
 ### This is example of birthday app created with React and using useState hook for its simple functionalities.
 
 ---
@@ -10,4 +11,7 @@
 
 </br>
 
-![image](./public/assets/birthday-app.jpg)
+## ![image](./public/assets/birthday-app.jpg)
+
+</br>
+</br>
