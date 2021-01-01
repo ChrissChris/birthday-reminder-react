@@ -6,7 +6,7 @@
 ---
 
 </br>
-##### The image below shows how the app look like.
+<p> The image below shows how the app look like. </p>
 
 </br>
 
