@@ -10,7 +10,7 @@ const List = ({ people }) => {
             <img src={image} alt="image" />
             <div>
               <h4>{name}</h4>
-              <p>{age}years</p>
+              <p>{age} years</p>
             </div>
           </article>
         );
