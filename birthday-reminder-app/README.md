@@ -6,6 +6,8 @@
 ---
 
 </br>
-### The image below shows how the app look like.
+##### The image below shows how the app look like.
 
 </br>
+
+![image](./public/assets/birthday-app.jpg)
